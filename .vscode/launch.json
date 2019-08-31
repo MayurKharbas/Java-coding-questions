@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Unique_number",
+            "request": "launch",
+            "mainClass": "Unique_number"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IsUnique",
+            "request": "launch",
+            "mainClass": "IsUnique"
+        }
+    ]
+}
